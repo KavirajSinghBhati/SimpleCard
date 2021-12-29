@@ -1,4 +1,5 @@
-# ![SimpleCard](https://github.com/KavirajSinghBhati/TributePage/blob/master/webp-sc.png)
+# ![SimpleCard](https://github.com/KavirajSinghBhati/SimpleCard/blob/master/img/websc-desktop.png)
+# ![SimpleCard](https://github.com/KavirajSinghBhati/SimpleCard/blob/master/img/websc-mobile.png)
 
 # Simple Card
 
